@@ -1,5 +1,9 @@
 # Data-Analytic-project-with-EXCEL
 #THIS project for Ferns and Petals Sales Analysis
+
+
+
+
 #Summary:FNP Data Analysis
 Project Objective
 The primary objective of this project was to analyze the business performance and customer trends for FNP. The analysis provides actionable insights to enhance revenue generation, improve customer satisfaction, and optimize delivery operations.
